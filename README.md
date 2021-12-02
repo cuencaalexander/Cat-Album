@@ -1,15 +1,25 @@
+# Cat Album
+
+This is the Cat album application
+
+## Setup
+
+After cloning the project, go to the Cat directory and run the following command to install the npm packages:
+
+npm install
+
 ## To run project locally
 
 In the project directory, you can run:
 
-### `yarn start OR npm start`
+### `npm start OR yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
-You will also see any lint errors in the console.
+You will also see any errors in the console.
 
-### `yarn test OR npm test`
+### `npm test OR yarn test`
 
 Launches the test runner in the interactive watch mode.

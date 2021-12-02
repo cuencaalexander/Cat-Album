@@ -6,3 +6,25 @@
   align-items: center;
   height: 100vh;
 }
+
+.url {
+  word-wrap: break-word;
+}
+
+.ui.card > .image,
+.ui.cards > .card > .image {
+  max-height: 300px;
+  
+  /* height: 217px; */
+}
+
+.ui.card > .image:not(.ui) > img,
+.ui.cards > .card > .image:not(.ui) > img {
+  height: 100%;
+  
+    /* max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    object-fit: cover; */
+}
