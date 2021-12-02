@@ -1,6 +1,6 @@
 # Cat Album
 
-This is the Cat album application
+This is the Cat Album application
 
 ## Setup
 
