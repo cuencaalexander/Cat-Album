@@ -55,8 +55,8 @@ function App() {
               </Card.Header>
             )}
             <Card.Meta>
-              <p>Image Height: {displayCat.height}</p>
-              <p>Image Width: {displayCat.width}</p>
+              <p>Height: {displayCat.height}</p>
+              <p>Width: {displayCat.width}</p>
               <p className="url">Url: {displayCat.url}</p>
             </Card.Meta>
             <Card.Description>
