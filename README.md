@@ -4,7 +4,7 @@ This is the Cat Album application
 
 ## Setup
 
-After cloning the project, go to the directory where cloned it and run the following command to install the npm packages:
+After cloning the project, go into the 'Cat-Album' directory and run the following command to install the npm packages:
 
 ### `npm install`
 
